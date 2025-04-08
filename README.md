@@ -9,7 +9,7 @@ A project For Github Tutorial
 
 ### Hi there, I am Umut Yunusoğlu >
 
-- 🔭 I’m currently working on Omen Notebook
+- 🔭 I’m currently working on HP Victus Notebook
 - 🌱 I’m currently learning Machine Learning
 - 💬 Ask me about anything related data analysis and data visualization
 - 📫 How to reach me: umut.yunusoglu@sabanciuniv.edu
@@ -20,7 +20,7 @@ A project For Github Tutorial
 <h2 align="center">
 Who am I 👀 
 </h2>
-Freshman student at Sabanci University. Loves data science especially using Python.  
+Freshman student at Sabanci University. Loves living with curiosity!
 </p>
 <center>
 <br>
